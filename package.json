@@ -2,14 +2,14 @@
   "name": "first-es",
   "version": "1.0.0",
   "description": "First js",
-  "main": "index.js",
+  "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "js"
-  },
-  "author": "Felipe riveros",
+  },  "author": "Felipe riveros",
   "license": "ISC"
 }
